@@ -1,15 +1,20 @@
 body{
-    background-color:rgb(255, 255, 0);
+	width: 55vw;
+	height: 3000px; 
+  background: linear-gradient(to bottom right, #FF99CC 0%, #663399 51%, #8D8DD7 85%);
+  margin:auto;
+   font-family:  'Verdana', monospace;
+   text-align: justify;
+   
 }
-p1{
-    color:black;
-    font-weight: 200; 
-    font-family: Courier, 'Lucida Console', monospace;
+
+p{  
+	
+   
+		font-size: 1.2em;
+		
 }
-p{
-    color:black;
-    font-weight: 300; 
-    font-family: Courier, 'Lucida Console', monospace;
+
 }
 
 div{
